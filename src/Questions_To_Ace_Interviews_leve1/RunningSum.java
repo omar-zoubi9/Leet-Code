@@ -1,8 +1,4 @@
-package QuestionsToAceInterviews;
-
-import org.jetbrains.annotations.Contract;
-
-import java.util.HashMap;
+package Questions_To_Ace_Interviews_leve1;
 
 //https://leetcode.com/problems/running-sum-of-1d-array/
 public class RunningSum {
